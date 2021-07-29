@@ -33,7 +33,7 @@ describe("calculator demo", function(){
 
        //expect(result.getText()).toEqual('6');
        homepage.verifyResult('10');
-        browser.sleep(3000)
+        browser.sleep(4000)
 
 })
 
